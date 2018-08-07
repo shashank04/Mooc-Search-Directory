@@ -1,1 +1,1 @@
-# course_search_engine
+# MOOC Search Directory
